@@ -19,6 +19,16 @@ In this project, I built an interactive Tableau dashboard to analyze Airbnb list
 - Tableau (Data Visualization)  
 - Excel / CSV (Data Cleaning & Preparation)
 
+## 🧠 Business Context  
+Airbnb hosts and real estate investors face key questions:  
+- What type of property should I invest in?  
+- Which locations generate the highest returns?  
+- How should I price my listing competitively?  
+- When does demand peak throughout the year?  
+
+This dashboard answers those questions by turning raw listing data into actionable insights that support **pricing strategy, investment decisions, and revenue optimization**.
+
+
 
 ## 📌 Key Insights  
 
