@@ -1,4 +1,4 @@
-# 🏡 Airbnb Pricing & Revenue Analysis (Tableau)
+# 🏡 Airbnb Pricing & Revenue Analysis 
 
 ## 📊 Overview  
 In this project, I built an interactive Tableau dashboard to analyze Airbnb listing prices, bedroom distribution, zipcode trends, and revenue patterns to uncover key business insights.
